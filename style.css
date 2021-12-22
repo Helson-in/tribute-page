@@ -1,0 +1,78 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    -webkit-font-smoothing: antialiased; /* só funciona em browser webkit: chrome, safari. Deixa a letra mais suave */
+    font-family: 'Roboto Mono', monospace;
+    margin-left: auto;
+    margin-right: auto;
+    display: grid;
+    text-align: center;
+
+    background-color: #1f1f1f ;
+}
+main{
+    width: 100vw;
+    height: 100vh;
+    color: #fcfcfc;
+}
+header{
+    background-color: #ffe414;
+    padding-top: 25px;
+    color: #1f1f1f;
+    padding-bottom: 25px;
+}
+p{
+    font-size: 20px;
+}
+span{
+    width: 100%;
+    border: 2px black solid;
+    display: flex;
+}
+header h1{
+    padding-top: 20px;
+}
+header p{
+    padding: 5px;
+    color: black;
+}
+.container{
+    max-width: 70rem;
+    margin-left: auto;
+    margin-right: auto;
+}
+.container img {
+    margin-top: 2rem;
+    border-radius: 8px;
+}
+.container ul{
+    margin-top: 4rem;
+    text-align: justify;
+}
+.container ul li{
+    padding-bottom: 2rem;
+    list-style: none;
+}
+.description-image p{
+    margin-top: 1.5rem;
+}
+.history h3{
+    margin-top: 4rem;
+    font-size: 34px;
+}
+.quote{
+    margin-top: 4rem;
+}
+footer{
+    color: black;
+    background-color: #ffe414;
+    font-size: 20px;
+    padding: 2.5rem;
+    margin-top: 3rem;
+}
+footer a{
+    text-decoration: none;
+    color: #fcfcfc;
+} 
