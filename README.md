@@ -16,5 +16,8 @@ Um de meus projetos inicias feitos somente com HTML e CSS.
 - deixar a página responsiva
 - melhorar o aspecto visual
 
+### conhecimentos adquiridos:
+- Melhor conhecimento sobre a estruturação de div's, sobre div pai, filho
+- Código de css desnecessário reduzido
 
 #### Todas críticas construtivas ao projeto, são bem-vindas!
